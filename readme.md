@@ -1,6 +1,6 @@
 # Streamlined Weather Reporting App
 
-![Streamlined Weather Reporting App](https://raw.githubusercontent.com/AlexKalll/Streamlined-Weather-Reporting-App/main/demo.png)
+![Streamlined Weather Reporting App](https://raw.githubusercontent.com/AlexKalll/Streamlined-Weather-Reporting-App/main/main_app/demo.png)
 
 ## Overview
 The Streamlined Weather Reporting App is an intuitive web application designed to provide real-time weather updates for any city worldwide. Utilizing the OpenWeather API, this app fetches and displays weather information, including temperature, humidity, wind speed, and more, ensuring users have access to accurate and timely data.
